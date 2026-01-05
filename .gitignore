@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Encrypted output and temporary files
+encrypted_output.bin
+decrypted_output/
+decrypted.txt
+
+# Environment files and secrets
+.env
+
+# Test output
+coverage/
+htmlcov/
+
+# Misc
+*.bak
+*.swp
